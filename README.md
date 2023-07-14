@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @anjali-205 there, Stay safe and keep learning.
+- 👋 Hi, I’m Anjali there, hope you are safe and healthy. keep learning !!
 - 👀 I’m interested in Font-end Development, UI/UX design and Integrated API.
 - 🌱 I’m currently learning about Database Management and Flutter development.
 - 💞️ I’m looking to collaborate on project related to my tech stack and growing interest.
